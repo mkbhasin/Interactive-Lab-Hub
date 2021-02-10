@@ -68,12 +68,16 @@ _Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening th
 
 The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
 **Describe your setting, players, activity and goals here.**
+A couple decides to take a hike in the mountains of Lake Tahoe. They start around 4pm, not realizing the hike would take a few hours, and end up still about a couple hours from their car when the sun goes down and it turns completely dark outside. So, they turn on their attached interactive flashlight by saying "on" to help navigate the trail. Other commands like "brighter" or "dimmer: help them to see the signs to lead them back to the parking lot, so they can find their car safely.
 
 Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
 **Include a picture of your storyboard here**
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
 
 Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
 **Summarize feedback you got here.**
+My peers wanted to ensure there was some interaction with the device in my scene, so I reiterated how the flashlight would be used by the actors to be able to see signs that would guide them back to the lot. I also emphasized how they could interact with the light in different ways through their voice. They also said that my scene was very practical, something that would happen in the real world, and making the light audio-based was a creative tweak to the normal flashlight.
 
 
 ## Part B. Act out the Interaction
@@ -81,8 +85,10 @@ Present your idea to the other people in your breakout room. You can just get fe
 Try physically acting out the interaction you planned. For now, you can just pretend the device is doing the things you’ve scripted for it. 
 
 **Are there things that seemed better on paper than acted out?**
+It was not easy acting out a different setting in my apartment. My scene takes place in the mountains in the hours of the evening, and that was hard to portray in my apartment in broad daylight. The use of a flashlight seemed futile when there was light beaming from my window.
 
 **Are there new ideas that occur to you or your collaborators that come up from the acting?**
+Initially, I planned on just two audio-based interactions with the light: "on" and "brighter" (to see the sign). We decided that it could also be worthwhile to include a "dimmer" interaction, possibly when there is an animal (maybe a deer) walking by so to not disturb it.
 
 
 ## Part C. Prototype the device
