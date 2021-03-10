@@ -103,10 +103,14 @@ If you run into technical issues with this tool, you can also use a light switch
 
 **Give us feedback on Tinkerbelle.**
 
+I ran into technical issues connecting to tinkerbelle, so I used by iPhone and adjusted the brightness to accomodate.
+
 ## Part D. Wizard the device
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
 **Include your first attempts at recording the set-up video here.**
+
+First attempts: https://drive.google.com/file/d/19QbvYOfQ1sNfloaYuCX9nRoxieNRXqZD/view?usp=sharing 
 
 Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
 
@@ -121,11 +125,16 @@ Think about the setting of the device: is the environment a place where the devi
 **Include sketches of what your device might look like here.**
 
 **What concerns or opportunitities are influencing the way you've designed the device to look?**
+My device is basically an audio-controlled flashlight, but I want it to be more aesthetically pleasing and easier to carry around than a normal flashlight. I decided I would make a device that doesn't need to be held with hands, so it could free up space for the user. So, I created a device that could be attached to a user's shoulder (close to their mouth so that the audio functionality would be least compromised).
 
 
 ## Part F. Record
 
 **Take a video of your prototyped interaction.**
+
+https://drive.google.com/file/d/1tzTpAidmM3ObFna8ubEgLyqJQQGgIDeY/view?usp=sharing 
+
+I used an existing flexible selfie stick that I had and attached it to my shoulder to prototype this interaction. It is slightly hard to see since the setting is in the dark, but it worked well for what I designed it to be.
 
 **Please indicate anyone you collaborated with on this Lab.**
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
