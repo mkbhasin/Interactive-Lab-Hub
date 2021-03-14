@@ -149,6 +149,7 @@ This describes the second week's work for this lab activity.
 You will be assigned three partners from another group. Go to their github pages, view their videos, and provide them with reactions, suggestions & feedback: explain to them what you saw happening in their video. Guess the scene and the goals of the character. Ask them about anything that wasn’t clear. 
 
 **Summarize feedback from your partners here.**
+Jeanne Li - The idea of inventing an interactive flashlight is super practical and convenient. And I think the idea of freeing up use space and the voice recognition functionality are really convicing. I could clearly envision the implementation scenarios through your storyboard. To develop the device, maybe you could add different colors of light and signs that the screen can show (e.g., SOS light) and add more scenarios to the product.
 
 ## Make it your own
 
